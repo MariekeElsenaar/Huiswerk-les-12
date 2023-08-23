@@ -1,0 +1,76 @@
+header {
+    background-color: darkslategray;
+    width: 100%;
+    Height: 200px;
+}
+
+footer {
+    background-color: darkslategray;
+    width: 100%;
+    height: 200 px;
+}
+
+#woord1 {
+    background-color:aqua;
+}
+
+#woord2 {
+    background-color: aquamarine;
+}
+
+#woord3 {
+    background-color: darkturquoise;
+}
+
+#woord4 {
+    background-color: cornflowerblue;
+}
+
+#woord5 {
+    background-color: darkgoldenrod;
+}
+
+#woord6 {
+    background-color: darkkhaki;
+}
+
+#woord7 {
+    background-color: gold;
+}
+
+#woord8 {
+    background-color: goldenrod;
+}
+
+#afbeelding1 {
+    background-color: blueviolet;
+}
+
+#afbeelding2 {
+    background-color: darkorchid;
+}
+
+#afbeelding3 {
+    background-color: darkmagenta;
+}
+
+#afbeelding4 {
+    background-color: purple;
+}
+
+#afbeelding5 {
+    background-color: darkgreen;
+}
+
+#afbeelding6 {
+    background-color: forestgreen;
+}
+
+#afbeelding7 {
+    background-color: lightgreen;
+}
+
+#afbeelding8 {
+    background-color: limegreen;
+    
+}
